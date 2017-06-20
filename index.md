@@ -11,6 +11,7 @@
 授课对象：本科生
 
 [课程链接：点我](http://hwlist.ga/index_la16.html)
+[new address test](http://caiclass.win/index_la16.html)
 
 ---
 
