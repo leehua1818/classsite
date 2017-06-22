@@ -1,6 +1,6 @@
 ### Welcome to Class-Site Pages.
 
-## 欢迎进入课程讨论组 [点我进入论坛...](http://bbs.hwlist.ga/)
+## 欢迎进入课程讨论组 [点此进入论坛...](http://bbs.caiclass.win/)
 
 ---
 请选择相应课程链接进入......
