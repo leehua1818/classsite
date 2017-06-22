@@ -5,19 +5,22 @@
 ---
 请选择相应课程链接进入......
 
-### 《线性代数B》
-开课学期：2016-2017学年，第1学期
+### 本科生《线性代数B》
+开课学期：2017-2018学年，第1学期
 
-授课对象：本科生
+授课对象：（To be determined）
 
-[new address test](http://page.caiclass.win/index_la16.html)
+[2016年课程资料备份](http://page.caiclass.win/index_la16.html)
 
 ---
 
-### 《高等数值分析》
-开课学期：2016-2017学年，第1学期
+### 研究生课程
+- 《高等数值分析》
+- 《数值计算及其工程应用》
+
+开课学期：2017-2018学年，第1学期
 
 授课对象：研究生
 
-[课程链接：click here](http://page.caiclass.win/index_na2016.html)
+[2016年课程资料备份](http://page.caiclass.win/index_na2016.html)
 
