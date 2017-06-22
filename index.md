@@ -10,9 +10,7 @@
 
 授课对象：本科生
 
-[课程链接：点我](http://hwlist.ga/index_la16.html)
-
-[new address test](http://caiclass.win/index_la16.html)
+[new address test](http://page.caiclass.win/index_la16.html)
 
 ---
 
@@ -21,5 +19,5 @@
 
 授课对象：研究生
 
-[课程链接：点我](http://hwlist.ga/index_na2016.html)
+[课程链接：click here](http://page.caiclass.win/index_na2016.html)
 
