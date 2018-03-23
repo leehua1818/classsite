@@ -1,6 +1,6 @@
 ### Welcome to Class-Site Pages.
 
-## 欢迎进入课程讨论组 [点此进入论坛...](https://www.cjlu.tk/)
+## 欢迎进入课程讨论组 [点此进入论坛...](http://bbs.cjluvpn.tk/)
 
 ---
 请选择相应课程链接进入......
