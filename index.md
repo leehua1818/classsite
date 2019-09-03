@@ -2,6 +2,7 @@
 
 ## 欢迎进入课程组
 ![](http://cdn.hzhangzhuo.cn/caiclass.png)
+
 ---
 
 ### 本学期课程列表
