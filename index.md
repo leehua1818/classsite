@@ -1,9 +1,8 @@
 ### Welcome to Class-Site Pages.
 
 ## 欢迎进入课程组
-![](http://cdn.hzhangzhuo.cn/caiclass.png)
 
----
+![](http://cdn.hzhangzhuo.cn/caiclass.png)
 
 ### 本学期课程列表
 
@@ -26,6 +25,3 @@
 |高等数学C2|W1-W17|18管理类| [点击进入](https://mooc1-2.chaoxing.com/course/202428186.html)|
 |数值分析|W1-W16|17数学| [点击进入](https://mooc1-2.chaoxing.com/course/203601471.html)|
 
----
-
-bbs论坛暂停服务.
