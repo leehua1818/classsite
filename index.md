@@ -1,3 +1,5 @@
+<script async="" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 ### Welcome to Class-Site Pages.
 
 ## 欢迎进入课程组
@@ -25,3 +27,6 @@
 |高等数学C2|W1-W17|18管理类| [点击进入](https://mooc1-2.chaoxing.com/course/202428186.html)|
 |数值分析|W1-W16|17数学| [点击进入](https://mooc1-2.chaoxing.com/course/203601471.html)|
 
+---
+
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
