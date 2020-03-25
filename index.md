@@ -40,4 +40,10 @@
 
 ---
 
+### Mirror of Google Scholar and SCI-HUB
+[Google Scholar](http://ac.scmor.com/)
+[SCI-HUB](http://tool.yovisun.com/scihub/)
+
+---
+
 <span id="busuanzi_container_site_pv">从2019-10-28至今，本站总访问量<span id="busuanzi_value_site_pv"></span>次！</span>
