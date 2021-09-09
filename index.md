@@ -78,12 +78,12 @@
 |数值分析|W1-W16|17数学| [点击进入](https://mooc1-2.chaoxing.com/course/203601471.html)|
 
 ---
-
+-->
 ### Mirror of Google Scholar and SCI-HUB
 
 + #### [Google Scholar](http://ac.scmor.com/)
 + #### [SCI-HUB](http://tool.yovisun.com/scihub/)
--->
+
 ---
 
 <span id="busuanzi_container_site_pv">从2019-10-28至今，本站总访问量<span id="busuanzi_value_site_pv"></span>次！</span>
