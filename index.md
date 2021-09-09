@@ -12,14 +12,14 @@
 
 |课程 | 授课信息 | 授课对象 | 课程主页 | 
 |-----------|------------|------------|------------|
-|高等数学A1|周一, W3-4, 6-17(3,4)|21工业,21自动化| [课程主页](https://www.icourse163.org/spoc/course/ZGJL-1460064166) |
+|高等数学A1|周一, W3-4, 6-17(3,4)|21工业,21自动化| <!--[课程主页](https://www.icourse163.org/spoc/course/ZGJL-1460064166)--> |
 ||周三, W6-17(1,2)|||
 ||周五, W3-4, 6-17(1,2)|| |
-|科学计算|周四, W1-4, 6-16(9,10,11)|21研究生|  [课程主页](https://mooc1.chaoxing.com/course/217030581.html)  |
+|科学计算|周四, W1-4, 6-16(9,10,11)|21研究生|  <!--[课程主页](https://mooc1.chaoxing.com/course/217030581.html)-->  |
 ||周一, W12(9,10,11)|(上机实验课)|    |
 
 ---
-
+<!--
 ### 往期课程列表
 
 开课学期：2020-2021学年，第2学期
@@ -82,7 +82,7 @@
 
 + #### [Google Scholar](http://ac.scmor.com/)
 + #### [SCI-HUB](http://tool.yovisun.com/scihub/)
-
+-->
 ---
 
 <span id="busuanzi_container_site_pv">从2019-10-28至今，本站总访问量<span id="busuanzi_value_site_pv"></span>次！</span>
