@@ -83,6 +83,7 @@
 
 + #### [Google Scholar](http://ac.scmor.com/)
 + #### [SCI-HUB](http://tool.yovisun.com/scihub/)
++ #### [汤姆聚合搜索](https://www.tomfind.com/)
 
 ---
 
