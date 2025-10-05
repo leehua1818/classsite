@@ -8,14 +8,14 @@
 
 ### 本学期课程列表
 
-开课学期：2024-2021学年，第1学期
+开课学期：2025-2026学年，第1学期
 
 |课程 | 授课信息 | 授课对象 | 课程主页 | 
 |-----------|------------|------------|------------|
-|高等数学A1|   | | [课程主页](https://www.icourse163.org/spoc/course/ZGJL-1460064166) | 
-|线性代数B|     |||
+|高等数学A1|W1-W17, 一三五   | 25质卓123 | | 
+|线性代数B|W1-W13, 一五     | 25光电123||
 ||     |||
-|科学计算|  |24研究生|   | 
+|科学计算|W1-W16, 二  |25研究生|   | 
 ||  |     |    |
 
 ---
@@ -95,7 +95,10 @@
 
 + #### [Google Scholar](http://ac.scmor.com/)
 + #### [SCI-HUB](http://tool.yovisun.com/scihub/)
-+ #### [未来百科-AI工具集](https://www.huntagi.com/)
++ #### [AI工具集](https://ai-bot.cn/)
++ #### [Google 学术资源 2025整合](https://hub.szsyw.cn/)
++ #### [SCI-HUB 2025整合](https://hub.szsyw.cn/scihub/)
++ #### [数字素养网](https://szsyw.cn/xueshu)
 
 <!--
 + #### [数字生活指南](https://nav.guidebook.top/)
@@ -105,3 +108,4 @@
 ---
 
 <span id="busuanzi_container_site_pv">从2019-10-28至今，本站总访问量<span id="busuanzi_value_site_pv"></span>次！</span>
+
